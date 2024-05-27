@@ -1,7 +1,7 @@
 Bank Management project is written in Python.This is a simple console based system which is very easy to understand and use. Talking about the system, it contains all the basic functions which include creating a new account,withdraws,deposit amount, balance inquiry.
 
-Main Menu:
-
+**Main Menu:
+**
 Prompt the user to select an option from the main menu:
 Option 1: Customer Login
 Option 2: New Customer
@@ -9,15 +9,15 @@ Option 3: Exit
 
 User Can selected option 1.
 
-Customer Login:
-
+**Customer Login:
+**
 If the user selects Customer Login, prompt them to enter their username and password.
 Verify the username and password.
 username:Arun
 password:2255
 
-Account Menu:
-
+**Account Menu:
+**
 If the login is successful, display the (" *****Welcome  " + CustName, "*****") and account menu with the following options:
 
  View Account Details
